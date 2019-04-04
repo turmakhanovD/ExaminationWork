@@ -1,0 +1,6 @@
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\bin\Debug\Warehouse.Service.Abstract.dll
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\bin\Debug\Warehouse.Service.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\obj\Debug\Warehouse.Service.Abstract.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\obj\Debug\Warehouse.Service.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\obj\Debug\Warehouse.Service.Abstract.dll
+C:\Users\ТурмаханД\source\repos\Warehouse.Console\Warehouse.Service.Abstract\obj\Debug\Warehouse.Service.Abstract.pdb

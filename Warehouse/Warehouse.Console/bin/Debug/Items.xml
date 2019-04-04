@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Name>Шампунь</Name>
+    <Description>Шампунь Head'n'Shoulders не шипит глаза</Description>
+    <WhenAdded>2019-04-04T17:05:16.2774038+06:00</WhenAdded>
+    <Price>3000</Price>
+  </Item>
+</ArrayOfItem>
